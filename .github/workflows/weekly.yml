@@ -1,20 +1,3 @@
-﻿# MLB Award Race Predictor (MVP & Cy Young)
-
-Weekly pipeline that predicts top-5 MVP and Cy Young candidates (AL/NL) using season-to-date metrics (WAR, wRC+, OPS, FIP, Win%) trained on 1980–present data.
-
-## How it runs
-- `run_weekly.py` calls `src/predict_current_awards.py` to produce timestamped CSVs under `predictions/<year>/`.
-- GitHub Actions (see `.github/workflows/weekly.yml`) runs every Monday and commits new CSVs to the repo.
-
-## Local test
-```bash
-python run_weekly.py
-
-## D) `.github/workflows/weekly.yml`
-> **Important:** YAML is indentation-sensitive—copy exactly.
-
-```powershell
-@'
 name: Weekly Awards Predictions
 
 on:
