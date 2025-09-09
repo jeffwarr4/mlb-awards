@@ -1,0 +1,15 @@
+﻿# Python
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Outputs
+predictions/**/*.png
+
+# Allow CSV outputs to be committed by the workflow
+# (no ignore for predictions/**/*.csv)

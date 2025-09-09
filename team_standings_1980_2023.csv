@@ -1,0 +1,379 @@
+Year,Team,W,L,W-L%,Playoffs
+1980,New York Yankees,103,59,0.636,1
+1980,Baltimore Orioles,100,62,0.617,1
+1980,Milwaukee Brewers,86,76,0.531,0
+1980,Detroit Tigers,84,78,0.519,0
+1980,Boston Red Sox,83,77,0.519,0
+1980,Cleveland Indians,79,81,0.494,0
+1980,Toronto Blue Jays,67,95,0.414,0
+1980,Kansas City Royals,97,65,0.599,1
+1980,Oakland Athletics,83,79,0.512,1
+1980,Minnesota Twins,77,84,0.478,0
+1980,Texas Rangers,76,85,0.472,0
+1980,Chicago White Sox,70,90,0.438,0
+1980,California Angels,65,95,0.406,0
+1980,Seattle Mariners,59,103,0.364,0
+1980,Philadelphia Phillies,91,71,0.562,1
+1980,Montreal Expos,90,72,0.556,1
+1980,Pittsburgh Pirates,83,79,0.512,0
+1980,St. Louis Cardinals,74,88,0.457,0
+1980,New York Mets,67,95,0.414,0
+1980,Chicago Cubs,64,98,0.395,0
+1980,Houston Astros,93,70,0.571,1
+1980,Los Angeles Dodgers,92,71,0.564,1
+1980,Cincinnati Reds,89,73,0.549,0
+1980,Atlanta Braves,81,80,0.503,0
+1980,San Francisco Giants,75,86,0.466,0
+1980,San Diego Padres,73,89,0.451,0
+1981,New York Yankees,34,22,0.607,1
+1981,Baltimore Orioles,31,23,0.574,1
+1981,Milwaukee Brewers,31,25,0.554,0
+1981,Detroit Tigers,31,26,0.544,0
+1981,Boston Red Sox,30,26,0.536,0
+1981,Cleveland Indians,26,24,0.52,0
+1981,Toronto Blue Jays,16,42,0.276,0
+1981,Oakland Athletics,37,23,0.617,1
+1981,Texas Rangers,33,22,0.6,1
+1981,Chicago White Sox,31,22,0.585,0
+1981,California Angels,31,29,0.517,0
+1981,Kansas City Royals,20,30,0.4,0
+1981,Seattle Mariners,21,36,0.368,0
+1981,Minnesota Twins,17,39,0.304,0
+1981,Milwaukee Brewers,31,22,0.585,1
+1981,Boston Red Sox,29,23,0.558,1
+1981,Detroit Tigers,29,23,0.558,0
+1981,Baltimore Orioles,28,23,0.549,0
+1981,Cleveland Indians,26,27,0.491,0
+1981,New York Yankees,25,26,0.49,0
+1981,Toronto Blue Jays,21,27,0.438,0
+1981,Kansas City Royals,30,23,0.566,1
+1981,Oakland Athletics,27,22,0.551,1
+1981,Texas Rangers,24,26,0.48,0
+1981,Minnesota Twins,24,29,0.453,0
+1981,Seattle Mariners,23,29,0.442,0
+1981,Chicago White Sox,23,30,0.434,0
+1981,California Angels,20,30,0.4,0
+1982,Milwaukee Brewers,95,67,0.586,1
+1982,Baltimore Orioles,94,68,0.58,1
+1982,Boston Red Sox,89,73,0.549,0
+1982,Detroit Tigers,83,79,0.512,0
+1982,New York Yankees,79,83,0.488,0
+1982,Cleveland Indians,78,84,0.481,0
+1982,Toronto Blue Jays,78,84,0.481,0
+1982,California Angels,93,69,0.574,1
+1982,Kansas City Royals,90,72,0.556,1
+1982,Chicago White Sox,87,75,0.537,0
+1982,Seattle Mariners,76,86,0.469,0
+1982,Oakland Athletics,68,94,0.42,0
+1982,Texas Rangers,64,98,0.395,0
+1982,Minnesota Twins,60,102,0.37,0
+1982,St. Louis Cardinals,92,70,0.568,1
+1982,Philadelphia Phillies,89,73,0.549,1
+1982,Montreal Expos,86,76,0.531,0
+1982,Pittsburgh Pirates,84,78,0.519,0
+1982,Chicago Cubs,73,89,0.451,0
+1982,New York Mets,65,97,0.401,0
+1982,Atlanta Braves,89,73,0.549,1
+1982,Los Angeles Dodgers,88,74,0.543,1
+1982,San Francisco Giants,87,75,0.537,0
+1982,San Diego Padres,81,81,0.5,0
+1982,Houston Astros,77,85,0.475,0
+1982,Cincinnati Reds,61,101,0.377,0
+1983,Baltimore Orioles,98,64,0.605,1
+1983,Detroit Tigers,92,70,0.568,1
+1983,New York Yankees,91,71,0.562,0
+1983,Toronto Blue Jays,89,73,0.549,0
+1983,Milwaukee Brewers,87,75,0.537,0
+1983,Boston Red Sox,78,84,0.481,0
+1983,Cleveland Indians,70,92,0.432,0
+1983,Chicago White Sox,99,63,0.611,1
+1983,Kansas City Royals,79,83,0.488,1
+1983,Texas Rangers,77,85,0.475,0
+1983,Oakland Athletics,74,88,0.457,0
+1983,California Angels,70,92,0.432,0
+1983,Minnesota Twins,70,92,0.432,0
+1983,Seattle Mariners,60,102,0.37,0
+1983,Philadelphia Phillies,90,72,0.556,1
+1983,Pittsburgh Pirates,84,78,0.519,1
+1983,Montreal Expos,82,80,0.506,0
+1983,St. Louis Cardinals,79,83,0.488,0
+1983,Chicago Cubs,71,91,0.438,0
+1983,New York Mets,68,94,0.42,0
+1983,Los Angeles Dodgers,91,71,0.562,1
+1983,Atlanta Braves,88,74,0.543,1
+1983,Houston Astros,85,77,0.525,0
+1983,San Diego Padres,81,81,0.5,0
+1983,San Francisco Giants,79,83,0.488,0
+1983,Cincinnati Reds,74,88,0.457,0
+1984,Detroit Tigers,104,58,0.642,1
+1984,Toronto Blue Jays,89,73,0.549,1
+1984,New York Yankees,87,75,0.537,0
+1984,Boston Red Sox,86,76,0.531,0
+1984,Baltimore Orioles,85,77,0.525,0
+1984,Cleveland Indians,75,87,0.463,0
+1984,Milwaukee Brewers,67,94,0.416,0
+1984,Kansas City Royals,84,78,0.519,1
+1984,California Angels,81,81,0.5,1
+1984,Minnesota Twins,81,81,0.5,0
+1984,Oakland Athletics,77,85,0.475,0
+1984,Chicago White Sox,74,88,0.457,0
+1984,Seattle Mariners,74,88,0.457,0
+1984,Texas Rangers,69,92,0.429,0
+1984,Chicago Cubs,96,65,0.596,1
+1984,New York Mets,90,72,0.556,1
+1984,St. Louis Cardinals,84,78,0.519,0
+1984,Philadelphia Phillies,81,81,0.5,0
+1984,Montreal Expos,78,83,0.484,0
+1984,Pittsburgh Pirates,75,87,0.463,0
+1984,San Diego Padres,92,70,0.568,1
+1984,Atlanta Braves,80,82,0.494,1
+1984,Houston Astros,80,82,0.494,0
+1984,Los Angeles Dodgers,79,83,0.488,0
+1984,Cincinnati Reds,70,92,0.432,0
+1984,San Francisco Giants,66,96,0.407,0
+1985,Toronto Blue Jays,99,62,0.615,1
+1985,New York Yankees,97,64,0.602,1
+1985,Detroit Tigers,84,77,0.522,0
+1985,Baltimore Orioles,83,78,0.516,0
+1985,Boston Red Sox,81,81,0.5,0
+1985,Milwaukee Brewers,71,90,0.441,0
+1985,Cleveland Indians,60,102,0.37,0
+1985,Kansas City Royals,91,71,0.562,1
+1985,California Angels,90,72,0.556,1
+1985,Chicago White Sox,85,77,0.525,0
+1985,Minnesota Twins,77,85,0.475,0
+1985,Oakland Athletics,77,85,0.475,0
+1985,Seattle Mariners,74,88,0.457,0
+1985,Texas Rangers,62,99,0.385,0
+1985,St. Louis Cardinals,101,61,0.623,1
+1985,New York Mets,98,64,0.605,1
+1985,Montreal Expos,84,77,0.522,0
+1985,Chicago Cubs,77,84,0.478,0
+1985,Philadelphia Phillies,75,87,0.463,0
+1985,Pittsburgh Pirates,57,104,0.354,0
+1985,Los Angeles Dodgers,95,67,0.586,1
+1985,Cincinnati Reds,89,72,0.553,1
+1985,Houston Astros,83,79,0.512,0
+1985,San Diego Padres,83,79,0.512,0
+1985,Atlanta Braves,66,96,0.407,0
+1985,San Francisco Giants,62,100,0.383,0
+1986,Boston Red Sox,95,66,0.59,1
+1986,New York Yankees,90,72,0.556,1
+1986,Detroit Tigers,87,75,0.537,0
+1986,Toronto Blue Jays,86,76,0.531,0
+1986,Cleveland Indians,84,78,0.519,0
+1986,Milwaukee Brewers,77,84,0.478,0
+1986,Baltimore Orioles,73,89,0.451,0
+1986,California Angels,92,70,0.568,1
+1986,Texas Rangers,87,75,0.537,1
+1986,Kansas City Royals,76,86,0.469,0
+1986,Oakland Athletics,76,86,0.469,0
+1986,Chicago White Sox,72,90,0.444,0
+1986,Minnesota Twins,71,91,0.438,0
+1986,Seattle Mariners,67,95,0.414,0
+1986,New York Mets,108,54,0.667,1
+1986,Philadelphia Phillies,86,75,0.534,1
+1986,St. Louis Cardinals,79,82,0.491,0
+1986,Montreal Expos,78,83,0.484,0
+1986,Chicago Cubs,70,90,0.438,0
+1986,Pittsburgh Pirates,64,98,0.395,0
+1986,Houston Astros,96,66,0.593,1
+1986,Cincinnati Reds,86,76,0.531,1
+1986,San Francisco Giants,83,79,0.512,0
+1986,San Diego Padres,74,88,0.457,0
+1986,Los Angeles Dodgers,73,89,0.451,0
+1986,Atlanta Braves,72,89,0.447,0
+1987,Detroit Tigers,98,64,0.605,1
+1987,Toronto Blue Jays,96,66,0.593,1
+1987,Milwaukee Brewers,91,71,0.562,0
+1987,New York Yankees,89,73,0.549,0
+1987,Boston Red Sox,78,84,0.481,0
+1987,Baltimore Orioles,67,95,0.414,0
+1987,Cleveland Indians,61,101,0.377,0
+1987,Minnesota Twins,85,77,0.525,1
+1987,Kansas City Royals,83,79,0.512,1
+1987,Oakland Athletics,81,81,0.5,0
+1987,Seattle Mariners,78,84,0.481,0
+1987,Chicago White Sox,77,85,0.475,0
+1987,California Angels,75,87,0.463,0
+1987,Texas Rangers,75,87,0.463,0
+1987,St. Louis Cardinals,95,67,0.586,1
+1987,New York Mets,92,70,0.568,1
+1987,Montreal Expos,91,71,0.562,0
+1987,Philadelphia Phillies,80,82,0.494,0
+1987,Pittsburgh Pirates,80,82,0.494,0
+1987,Chicago Cubs,76,85,0.472,0
+1987,San Francisco Giants,90,72,0.556,1
+1987,Cincinnati Reds,84,78,0.519,1
+1987,Houston Astros,76,86,0.469,0
+1987,Los Angeles Dodgers,73,89,0.451,0
+1987,Atlanta Braves,69,92,0.429,0
+1987,San Diego Padres,65,97,0.401,0
+1988,Boston Red Sox,89,73,0.549,1
+1988,Detroit Tigers,88,74,0.543,1
+1988,Milwaukee Brewers,87,75,0.537,0
+1988,Toronto Blue Jays,87,75,0.537,0
+1988,New York Yankees,85,76,0.528,0
+1988,Cleveland Indians,78,84,0.481,0
+1988,Baltimore Orioles,54,107,0.335,0
+1988,Oakland Athletics,104,58,0.642,1
+1988,Minnesota Twins,91,71,0.562,1
+1988,Kansas City Royals,84,77,0.522,0
+1988,California Angels,75,87,0.463,0
+1988,Chicago White Sox,71,90,0.441,0
+1988,Texas Rangers,70,91,0.435,0
+1988,Seattle Mariners,68,93,0.422,0
+1988,New York Mets,100,60,0.625,1
+1988,Pittsburgh Pirates,85,75,0.531,1
+1988,Montreal Expos,81,81,0.5,0
+1988,Chicago Cubs,77,85,0.475,0
+1988,St. Louis Cardinals,76,86,0.469,0
+1988,Philadelphia Phillies,65,96,0.404,0
+1988,Los Angeles Dodgers,94,67,0.584,1
+1988,Cincinnati Reds,87,74,0.54,1
+1988,San Diego Padres,83,78,0.516,0
+1988,San Francisco Giants,83,79,0.512,0
+1988,Houston Astros,82,80,0.506,0
+1988,Atlanta Braves,54,106,0.338,0
+1989,Toronto Blue Jays,89,73,0.549,1
+1989,Baltimore Orioles,87,75,0.537,1
+1989,Boston Red Sox,83,79,0.512,0
+1989,Milwaukee Brewers,81,81,0.5,0
+1989,New York Yankees,74,87,0.46,0
+1989,Cleveland Indians,73,89,0.451,0
+1989,Detroit Tigers,59,103,0.364,0
+1989,Oakland Athletics,99,63,0.611,1
+1989,Kansas City Royals,92,70,0.568,1
+1989,California Angels,91,71,0.562,0
+1989,Texas Rangers,83,79,0.512,0
+1989,Minnesota Twins,80,82,0.494,0
+1989,Seattle Mariners,73,89,0.451,0
+1989,Chicago White Sox,69,92,0.429,0
+1989,Chicago Cubs,93,69,0.574,1
+1989,New York Mets,87,75,0.537,1
+1989,St. Louis Cardinals,86,76,0.531,0
+1989,Montreal Expos,81,81,0.5,0
+1989,Pittsburgh Pirates,74,88,0.457,0
+1989,Philadelphia Phillies,67,95,0.414,0
+1989,San Francisco Giants,92,70,0.568,1
+1989,San Diego Padres,89,73,0.549,1
+1989,Houston Astros,86,76,0.531,0
+1989,Los Angeles Dodgers,77,83,0.481,0
+1989,Cincinnati Reds,75,87,0.463,0
+1989,Atlanta Braves,63,97,0.394,0
+1990,Boston Red Sox,88,74,0.543,1
+1990,Toronto Blue Jays,86,76,0.531,1
+1990,Detroit Tigers,79,83,0.488,0
+1990,Cleveland Indians,77,85,0.475,0
+1990,Baltimore Orioles,76,85,0.472,0
+1990,Milwaukee Brewers,74,88,0.457,0
+1990,New York Yankees,67,95,0.414,0
+1990,Oakland Athletics,103,59,0.636,1
+1990,Chicago White Sox,94,68,0.58,1
+1990,Texas Rangers,83,79,0.512,0
+1990,California Angels,80,82,0.494,0
+1990,Seattle Mariners,77,85,0.475,0
+1990,Kansas City Royals,75,86,0.466,0
+1990,Minnesota Twins,74,88,0.457,0
+1990,Pittsburgh Pirates,95,67,0.586,1
+1990,New York Mets,91,71,0.562,1
+1990,Montreal Expos,85,77,0.525,0
+1990,Chicago Cubs,77,85,0.475,0
+1990,Philadelphia Phillies,77,85,0.475,0
+1990,St. Louis Cardinals,70,92,0.432,0
+1990,Cincinnati Reds,91,71,0.562,1
+1990,Los Angeles Dodgers,86,76,0.531,1
+1990,San Francisco Giants,85,77,0.525,0
+1990,Houston Astros,75,87,0.463,0
+1990,San Diego Padres,75,87,0.463,0
+1990,Atlanta Braves,65,97,0.401,0
+1991,Toronto Blue Jays,91,71,0.562,1
+1991,Boston Red Sox,84,78,0.519,1
+1991,Detroit Tigers,84,78,0.519,0
+1991,Milwaukee Brewers,83,79,0.512,0
+1991,New York Yankees,71,91,0.438,0
+1991,Baltimore Orioles,67,95,0.414,0
+1991,Cleveland Indians,57,105,0.352,0
+1991,Minnesota Twins,95,67,0.586,1
+1991,Chicago White Sox,87,75,0.537,1
+1991,Texas Rangers,85,77,0.525,0
+1991,Oakland Athletics,84,78,0.519,0
+1991,Seattle Mariners,83,79,0.512,0
+1991,Kansas City Royals,82,80,0.506,0
+1991,California Angels,81,81,0.5,0
+1991,Pittsburgh Pirates,98,64,0.605,1
+1991,St. Louis Cardinals,84,78,0.519,1
+1991,Philadelphia Phillies,78,84,0.481,0
+1991,Chicago Cubs,77,83,0.481,0
+1991,New York Mets,77,84,0.478,0
+1991,Montreal Expos,71,90,0.441,0
+1991,Atlanta Braves,94,68,0.58,1
+1991,Los Angeles Dodgers,93,69,0.574,1
+1991,San Diego Padres,84,78,0.519,0
+1991,San Francisco Giants,75,87,0.463,0
+1991,Cincinnati Reds,74,88,0.457,0
+1991,Houston Astros,65,97,0.401,0
+1992,Toronto Blue Jays,96,66,0.593,1
+1992,Milwaukee Brewers,92,70,0.568,1
+1992,Baltimore Orioles,89,73,0.549,0
+1992,Cleveland Indians,76,86,0.469,0
+1992,New York Yankees,76,86,0.469,0
+1992,Detroit Tigers,75,87,0.463,0
+1992,Boston Red Sox,73,89,0.451,0
+1992,Oakland Athletics,96,66,0.593,1
+1992,Minnesota Twins,90,72,0.556,1
+1992,Chicago White Sox,86,76,0.531,0
+1992,Texas Rangers,77,85,0.475,0
+1992,California Angels,72,90,0.444,0
+1992,Kansas City Royals,72,90,0.444,0
+1992,Seattle Mariners,64,98,0.395,0
+1992,Pittsburgh Pirates,96,66,0.593,1
+1992,Montreal Expos,87,75,0.537,1
+1992,St. Louis Cardinals,83,79,0.512,0
+1992,Chicago Cubs,78,84,0.481,0
+1992,New York Mets,72,90,0.444,0
+1992,Philadelphia Phillies,70,92,0.432,0
+1992,Atlanta Braves,98,64,0.605,1
+1992,Cincinnati Reds,90,72,0.556,1
+1992,San Diego Padres,82,80,0.506,0
+1992,Houston Astros,81,81,0.5,0
+1992,San Francisco Giants,72,90,0.444,0
+1992,Los Angeles Dodgers,63,99,0.389,0
+1993,Toronto Blue Jays,95,67,0.586,1
+1993,New York Yankees,88,74,0.543,1
+1993,Baltimore Orioles,85,77,0.525,0
+1993,Detroit Tigers,85,77,0.525,0
+1993,Boston Red Sox,80,82,0.494,0
+1993,Cleveland Indians,76,86,0.469,0
+1993,Milwaukee Brewers,69,93,0.426,0
+1993,Chicago White Sox,94,68,0.58,1
+1993,Texas Rangers,86,76,0.531,1
+1993,Kansas City Royals,84,78,0.519,0
+1993,Seattle Mariners,82,80,0.506,0
+1993,California Angels,71,91,0.438,0
+1993,Minnesota Twins,71,91,0.438,0
+1993,Oakland Athletics,68,94,0.42,0
+1993,Philadelphia Phillies,97,65,0.599,1
+1993,Montreal Expos,94,68,0.58,1
+1993,St. Louis Cardinals,87,75,0.537,0
+1993,Chicago Cubs,84,78,0.519,0
+1993,Pittsburgh Pirates,75,87,0.463,0
+1993,Florida Marlins,64,98,0.395,0
+1993,New York Mets,59,103,0.364,0
+1993,Atlanta Braves,104,58,0.642,1
+1993,San Francisco Giants,103,59,0.636,1
+1993,Houston Astros,85,77,0.525,0
+1993,Los Angeles Dodgers,81,81,0.5,0
+1993,Cincinnati Reds,73,89,0.451,0
+1993,Colorado Rockies,67,95,0.414,0
+1993,San Diego Padres,61,101,0.377,0
+1994,New York Yankees,70,43,0.619,1
+1994,Baltimore Orioles,63,49,0.563,1
+1994,Toronto Blue Jays,55,60,0.478,1
+1994,Boston Red Sox,54,61,0.47,1
+1994,Detroit Tigers,53,62,0.461,1
+1994,Chicago White Sox,67,46,0.593,1
+1994,Cleveland Indians,66,47,0.584,1
+1994,Kansas City Royals,64,51,0.557,1
+1994,Minnesota Twins,53,60,0.469,1
+1994,Milwaukee Brewers,53,62,0.461,1

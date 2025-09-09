@@ -1,0 +1,58 @@
+﻿# MLB Award Race Predictor (MVP & Cy Young)
+
+Weekly pipeline that predicts top-5 MVP and Cy Young candidates (AL/NL) using season-to-date metrics (WAR, wRC+, OPS, FIP, Win%) trained on 1980–present data.
+
+## How it runs
+- `run_weekly.py` calls `src/predict_current_awards.py` to produce timestamped CSVs under `predictions/<year>/`.
+- GitHub Actions (see `.github/workflows/weekly.yml`) runs every Monday and commits new CSVs to the repo.
+
+## Local test
+```bash
+python run_weekly.py
+
+## D) `.github/workflows/weekly.yml`
+> **Important:** YAML is indentation-sensitive—copy exactly.
+
+```powershell
+@'
+name: Weekly Awards Predictions
+
+on:
+  schedule:
+    - cron: "0 14 * * 4"    # Thursdays 14:00 UTC (~6–7am PT depending on DST)
+  workflow_dispatch: {}     # allow manual run from Actions tab
+
+permissions:
+  contents: write           # allow committing outputs back to the repo
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r requirements.txt
+
+      - name: Run weekly prediction
+        run: python run_weekly.py
+
+      - name: Commit results
+        run: |
+          git config user.name "${{ github.actor }}-bot"
+          git config user.email "${{ github.actor }}@users.noreply.github.com"
+          git add predictions/
+          if ! git diff --staged --quiet; then
+            git commit -m "Weekly update: predictions"
+            git push
+          else
+            echo "No changes to commit."
+          fi
